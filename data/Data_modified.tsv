@@ -1,0 +1,79 @@
+Rapanui	Verb with DAT marked stimuli (ki)	{LOVE, ANGER, WORRY, SHAME, MISSING}
+Rapanui	Verb with ''at'' marked stimuli ('i)	{HAPPYNESS, FEAR, SURPRISE, PITY}
+Rapanui	Verb with ACC marked stimuli (i)	{SHAME, ANGER}
+Rapanui	Stay with pain construction, 'i marked stimulus	{SADNESS}
+Rapanui	Verb with ''for'' marked stimuli (mo)	{PITY, ANGER}
+Rapanui	existential possessed feeling + DAT stimuli	{RESPECT}
+Lezgian	Dative experiencer, absolutive stimuli	{LOVE}
+Lezgian	Absolutive experiencer, postessive stimuli	{HAPPYNESS}
+Lezgian	Stimuli's feeling comes to experiencer in DAT	{PITY}
+Lezgian	Dative experiencer, subelative stimuli	{ANGER}
+Lezgian	Dative experiencer, postelative stimuli	{FEAR, SHAME}
+Lezgian	Absolutive experiencer, dative stimuli	{SADNESS}
+Lezgian	Experiencer's eye with postessive stimuli	{MISSING}
+Lezgian	Absolutive experiencer, superessive stimuli	{SURPRISE}
+Lezgian	Ergative experiencer, superessive stimuli	{TRUST}
+Lezgian	Ergative experiencer, dative stimuli	{RESPECT}
+Sherbro	Transitive verb, subject experiencer object stimuli	{LOVE, PITY, ANGER, TRUST}
+Sherbro	Reflexive verb + ''to'' marked clause	{HAPPYNESS}
+Sherbro	Do emotion construction + ''for'' marked stimuli	{FEAR}
+Sherbro	Transitive verb, object experiencer subject stimuli	{SHAME}
+Sherbro	Copula adjective + ''for'' marked clause	{WORRY}
+Sherbro	Have emotion construction + ''for'' marked stimuli	{RESPECT}
+Palula	Verb conjunct with verb become, ''to'' marked stimuli	{LOVE, HAPPYNESS}
+Palula	Verb + ''to'' marked stimuli	{ANGER}
+Palula	Verb + ''from'' marked stimuli	{FEAR}
+Palula	Verb conjunct with verb do, ''from'' marked stimuli	{TRUST}
+Palula	Verb conjunct with verb do, agent stimuli	{SADNESS, WORRY}
+Palula	look + ''feeling'', agent experiencer	{SHAME}
+Palula	do X's ''feelin'' construction	{RESPECT}
+Cusco Quechua	Transitive verb, accusative marked stimuli	{LOVE, FEAR, MISSING, RESPECT}
+Cusco Quechua	Copula be + dative marked stimuli	{HAPPYNESS, SADNESS, PITY}
+Cusco Quechua	Transitive verb + dative marked stimuli	{WORRY}
+Cusco Quechua	Copula be + instrumental marked stimuli	{ANGER}
+Cusco Quechua	Transitive verb + instrumental marked stimuli	{SURPRISE}
+Cusco Quechua	Transitive verb, accusative marked experiencer	{SHAME}
+Cusco Quechua	Transitive verb + locative marked stimuli	{TRUST}
+Paraguayan Guarani	Transitive verb, object stimuli	{LOVE, PITY, MISSING, RESPECT}
+Paraguayan Guarani	Causative construction, with stimuli as subject	{HAPPYNESS}
+Paraguayan Guarani	Verb, ''with'' marked stimuli, stative	{ANGER}
+Paraguayan Guarani	Transitive verb, subject stimuli	{FEAR}
+Paraguayan Guarani	Verb, ''at'' marked stimuli, active	{SADNESS, WORRY, TRUST}
+Paraguayan Guarani	Verb, ''at'' marked stimuli, stative	{SURPRISE}
+Paraguayan Guarani	Causative construction, with stimuli as object	{SHAME}
+Mauwake	Transitive verb, experiencer subject	{LOVE, ANGER}
+Mauwake	Transitive construction with verb do	{PITY}
+Mauwake	Transitive construction with verb hold	{RESPECT}
+Mauwake	Intransitive construction with applicative and with verb drop	{SHAME}
+Mauwake	Transitive constructions with copula be	{MISSING}
+Mauwake	Preceding clause as a stimuli, intransitive verb	{HAPPYNESS, SURPRISE}
+Mauwake	Preceding clause as a stimuli, intransitive verb conctruction with the verb be	{SADNESS}
+Mauwake	Preceding clause as a stimuli, intransitive verb conctruction with the verb die out 	{WORRY}
+Mauwake	Dative stimuli, transitive verb	{FEAR}
+Yir-Yoront	Transitive verb, experiencer subject	{LOVE, MISSING, TRUST}
+Yir-Yoront	Intransitive verb, transitivizer, experiencer subject	{ANGER}
+Yir-Yoront	Intransitive verb, transitivizer, stimuli subject	{HAPPYNESS}
+Yir-Yoront	Intransitive verb, ablative stimuli	{FEAR}
+Yir-Yoront	See ''emotion'' construction	{PITY}
+Yir-Yoront	Interjection	{SURPRISE}
+Passamaquoddy-melecite	Transitive verb, experiencer subject	{LOVE, PITY, FEAR, TRUST, RESPECT}
+Passamaquoddy-melecite	Transitive verb, stimuli subject	{ANGER, MISSING, SURPRISE, WORRY}
+Passamaquoddy-melecite	Intransitive verb + applicative suffix	{SHAME, HAPPYNESS}
+Passamaquoddy-melecite	Clause stimuli	{SADNESS}
+Mawng	Transitive verb, experiencer subject	{LOVE, FEAR}
+Mawng	Stimuli as the clause preceding, intransitive verb	{SURPRISE}
+Mawng	Stimuli as the clause preceding, copula constructions	{HAPPYNESS}
+Mawng	Have ''feeling'' coverb construction, oblique stimuli	{PITY}
+Mawng	Intransitive verb + oblique stimuli	{ANGER, WORRY, RESPECT}
+Mawng	Transitive verb, stimuli subject	{SADNESS}
+Mawng	'Feeling'' has X construction, clause stimuli	{SHAME}
+Lakota	Transitive verb, experiencer subject	{LOVE, SHAME, SURPRISE, RESPECT}
+Lakota	Intransitive verb, causative suffix, stimuli subject	{HAPPYNESS, WORRY, TRUST}
+Lakota	Transitive verb built from ''with'' 	{PITY}
+Lakota	Intransitive verb + ''on'' marked stimuli	{ANGER}
+Lakota	Verb + a dative object stimuli	{FEAR, MISSING}
+Lakota	Verb + a benefactive object stimuli	{SADNESS}
+Nuer	Transitive verb, experiencer subject	{LOVE, MISSING, WORRY, RESPECT}
+Nuer	Verb + ''with'' marked stimuli	{PITY, FEAR, SADNESS, TRUST}
+Nuer	Transitive verb, stimuli subject	{SHAME, SURPRISE}
+Nuer	Reflexive verb + ''with'' marked stimuli	{ANGER}
